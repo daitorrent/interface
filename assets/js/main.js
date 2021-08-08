@@ -11,7 +11,7 @@
         toastr.success('Copied to Clipboad!')
     }
     document.addEventListener("DOMContentLoaded", function (event) {
-        var timeEnd = "2021-10-15 00:00:00";
+        var timeEnd = new Date("2021-10-15").setHours(0,0,0,0);
         var today = new Date();
         var dd = today.getDate();
         var mm = today.getMonth() + 1;
