@@ -766,7 +766,7 @@ function addToWallet() {
                     'address': '0x35f3599808ff41fd09ede9f797a6b7086b7989e8',
                     'symbol': 'DTT',
                     'decimals': '18',
-                    'image': 'https://daitorrent.com/images/logo.png',
+                    'image': 'https://daitorrent.com/assets/images/logo.png',
                 },
             },
             id: Math.round(Math.random() * 100000)
